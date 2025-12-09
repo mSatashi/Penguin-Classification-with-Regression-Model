@@ -1,4 +1,5 @@
-![palmerpenguins](https://github.com/allisonhorst/palmerpenguins/raw/master/man/figures/logo.png)
+## Project Title
+Pengembangan Model untuk Memprediksi Spesies Penguin
 
 ## Description
 
